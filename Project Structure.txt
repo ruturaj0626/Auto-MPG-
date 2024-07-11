@@ -1,0 +1,8 @@
+project/
+│
+├── data_processing.py
+├── hyperparameters.py
+├── main_script.py
+├── metrics.py
+├── modeling.py
+└── visualization.py
