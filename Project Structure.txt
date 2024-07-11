@@ -1,8 +1,10 @@
 project/
 │
+├── data/ 
+│   └── auto-mpg.csv
 ├── data_processing.py
-├── hyperparameters.py
-├── main_script.py
-├── metrics.py
 ├── modeling.py
-└── visualization.py
+├── hyperparameters.py
+├── metrics.py
+├── visualization.py
+└── main_script.py
